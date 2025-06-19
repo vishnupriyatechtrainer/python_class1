@@ -1,0 +1,73 @@
+Python - guido van rossum in 1991
+
+automation scripts to complex machine learning systems
+
+building websites , analyzing data , scripting servers and developing 
+AI models
+
+-----------------------------------
+
+for main - cross platform , supportive community
+
+django / flask - web framework - 
+
+kivy 
+
+pygames
+
+robot 
+
+------------------------------------------
+
+1, anaconda navigator - jupyter notebook 
+
+2, python - python.org
+
+--------------------------------
+
+demonty flying circus  - iric idle 
+
+shell 
+edit
+
+--------------------------------------
+
+variable - stores the values(data)
+
+syntax :
+
+a
+name 
+name123
+name_45
+
+name 45
+%name
+
+
+datatype : data - information 
+
+form - input tag - 
+
+1, string - '' or " " 
+2, number - int float or decimal
+3, array - list
+4, object - dictionary 
+5, boolean
+6, undefined
+7, NaN
+
+
+cast - 
+
+typecast - 
+
+statements - conditional and iteration
+
+
+
+
+
+
+
+
